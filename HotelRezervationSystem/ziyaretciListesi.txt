@@ -1,0 +1,4 @@
+Erdem,Kuru,ek,22,erdemkuru@gmail.com,11111111111,5555555555
+Kayra,Kosaoğlu,kk,123,kayrakosaoglu@gmail.com,22222222222,4444444444
+Ahmet,Kuru,ak,34,ahmetkuru@gmail.com,77777777777,8888888888
+Cansu,Kesici,cns,53,cansukesici@gmail.com,55555555555,3333333333

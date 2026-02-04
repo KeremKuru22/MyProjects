@@ -1,0 +1,4 @@
+ek,Tek Kişilik,1,Ön Cephe,Evet,Evet,Evet,Evet,3
+kk,Çift Kişilik,4,Ön Cephe,Evet,Evet,Evet,Evet,12
+ak,Aile Odası,7,Ön Cephe,Evet,Evet,Evet,Evet,19
+cns,Suit,12,Ön Cephe,Evet,Evet,Evet,Evet,35
